@@ -1,0 +1,9 @@
+{
+	"name": "carsdfdemo",
+	"location": "polandcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2d6d4e39-bf5e-4dc3-86f3-ffa7b4a7926a",
+		"tenantId": "88f61d48-e0f6-4c60-9439-464718e14dff"
+	}
+}
